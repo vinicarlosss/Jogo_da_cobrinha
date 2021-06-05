@@ -14,7 +14,9 @@ A nossa versão utiliza elementos HTML, CSS e javascript para sua criação, ten
 
 # História da criadora do primeiro jogo da cobrinha, a Nokia!!
 
+Quando comecei a implementar o projeto do jogo da cobrinha, me senti curioso a cerca da história do jogo, pesquisando descobri que a criadora do jogo foi a nokia em 1997 , empresa que tem mais de 100 anos de história, achei interessante fazer um breve histórico de como o jogo surgiu :)
 
+![alt text](https://github.com/vinicarlosss/Jogo_da_cobrinha/blob/main/imagens%20do%20projeto/hist%C3%B3rico.png?raw=true)
 
 
 
