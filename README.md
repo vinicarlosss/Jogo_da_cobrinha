@@ -20,3 +20,8 @@ Quando comecei a implementar o projeto do jogo da cobrinha, me senti curioso a c
 
 
 
+# Jogo da cobrinha atualmente
+
+Atualmente o jogo da cobrinha evoluiu bastante, e é possível inclusive jogar online, o jogo Slither.io permite que cada jogador controle uma cobrinha que deve fazer com que ela cresça e evite colidir com outros jogadores. Ele se tornou bastante popular desde o seu lançamento e em julho de 2016 ficou entre um dos mil sites mais visitados no rank Alexa.
+
+![alt text](https://github.com/vinicarlosss/Jogo_da_cobrinha/blob/main/imagens%20do%20projeto/atualmente.png?raw=true)
