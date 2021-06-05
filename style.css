@@ -51,3 +51,20 @@ h1{
     border: solid;
     font-size: 20px;
 }
+
+.atual{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.atual h1{
+    color: black;
+    background-color: #91928E;
+}
+
+.atual p{
+    background-color: blue;
+    border: solid;
+    font-size: 20px;
+}
