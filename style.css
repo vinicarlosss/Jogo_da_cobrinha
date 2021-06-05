@@ -1,4 +1,23 @@
 body{
     background-image: url(./img/i334474.jpeg);
     background-size: cover;
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+h1{
+    color: white;
+}
+.controles{
+    position: absolute;
+    margin: 10px;
+    border: solid;
+    color: black;
+    width: 500px;
+    left: 68%;
+    bottom: 50%;
 }
