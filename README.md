@@ -10,6 +10,10 @@ Este projeto visa a construção do famoso jogo da cobrinha, conhecido pelos usu
 
 A nossa versão utiliza elementos HTML, CSS e javascript para sua criação, tendo como aparência final a seguinte da imagem a seguir.
 
+![alt text](https://github.com/vinicarlosss/Jogo_da_cobrinha/blob/main/imagens%20do%20projeto/jogo%20completo.png?raw=true)
+
+# História da criadora do primeiro jogo da cobrinha, a Nokia!!
+
 
 
 

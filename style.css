@@ -1,8 +1,5 @@
 body{
     background-image: url(./img/i334474.jpeg);
-    background-size: cover;
-    height: 95vh;
-    width: 95;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,10 +11,41 @@ h1{
 }
 .controles{
     position: absolute;
+    background-color: blue;
     margin: 10px;
     border: solid;
     color: black;
     width: 500px;
     left: 68%;
     bottom: 50%;
+}
+.nokia{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.nokia h1{
+    color: black;
+    background-color: #91928E;
+}
+.nokia p{
+    background-color: blue;
+    font-size: 20px;
+}
+
+.arcades{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.arcades h1{
+    color: black;
+    background-color: #91928E;
+}
+
+.arcades p{
+    background-color: blue;
+    font-size: 20px;
 }
